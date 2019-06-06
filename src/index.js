@@ -19,7 +19,7 @@ const apiKey = '0b5776a91bf409ac10a3fe5f3944bf50417209a0' // <- your key here
 const appId = 'com.mydomain.myapp'
 const vendorName = 'Cloud Chain'
 const vendorImageUrl =
-  'https://airbitz.co/go/wp-content/uploads/2016/10/GenericEdgeLoginIcon.png'
+  'https://airbitz.co/go/wp-content/uploads/2016/08/'
 
 /**
  * The top-level component in the demo.
